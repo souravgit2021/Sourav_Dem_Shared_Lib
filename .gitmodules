@@ -1,0 +1,3 @@
+[submodule "gitops-springpetclinic"]
+	path = gitops-springpetclinic
+	url = https://github.com/souravgit2021/gitops-springpetclinic.git
